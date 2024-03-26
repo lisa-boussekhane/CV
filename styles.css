@@ -1,0 +1,59 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  padding: 20px;
+  margin-left: 15rem;
+  background-color: #d4cdcc;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header_subtitles {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header_subtitles h1 {
+  color: #d4857c;
+  font-size: 3rem;
+}
+
+#job_title {
+  color: #324159;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin: 20px;
+  margin-top: 4rem;
+}
+
+h2 {
+  background-color: #d7b5b2;
+  border: 2px solid #d7b5b2;
+  display: inline-block;
+  padding: 10px;
+}
+
+.section {
+  display: flex;
+}
+.section_left {
+  flex: 1;
+}
+.section_right {
+  flex: 1;
+}
+
+/*# sourceMappingURL=styles.css.map */
