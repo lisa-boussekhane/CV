@@ -21,9 +21,20 @@ header {
     justify-content: center;
     align-items: center;
   h1 {
-    color: #d4857c;
+    color: #cd6b60;
     font-size: 3rem;
   }
+}
+
+#pdf {
+    background-color: #cd6b60;
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 #job_title {
